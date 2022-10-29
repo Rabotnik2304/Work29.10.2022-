@@ -1,10 +1,15 @@
 ﻿namespace work29._10._2022
 {
-    internal class Program
+    using System;
+
+    namespace MyGitflowTask
     {
-        static void Main(string[] args)
+        class Program
         {
-            Console.WriteLine("Hello, World!");
+            static void Main(string[] args)
+            {
+
+            }
         }
     }
 }
